@@ -1,0 +1,35 @@
+_repo: Florida--An-Ideal-Cattle-State_33972
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Blackman, William Fremont
+    alias: Blackman, W. F. (William Fremont)
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '36485'
+    url: http://www.gutenberg.org/2009/agents/36485
+covers:
+- cover_type: archival
+  image_path: 33972-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Florida State Live Stock Association
+    alias: Association, Florida State Live Stock
+    gutenberg_agent_id: '36621'
+    url: http://www.gutenberg.org/2009/agents/36621
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33972'
+  lccn: '18008005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattle -- Florida'
+- !lcc 'SF'
+title: 'Florida: An Ideal Cattle State'
+url: http://www.gutenberg.org/ebooks/33972
